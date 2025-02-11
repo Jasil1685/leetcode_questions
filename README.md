@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Jasil1685/leetcode_questions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Jasil1685/leetcode_questions/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/Jasil1685/leetcode_questions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jasil1685/leetcode_questions/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Jasil1685/leetcode_questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
